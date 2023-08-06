@@ -1,0 +1,7 @@
+yfinance
+bs4
+urllib3
+plotly
+nltk
+matplotlib
+pandas==1.3.4
